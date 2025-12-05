@@ -1,3 +1,5 @@
+https://drugeffectivenesspredict-os562tblx8rhmhbeirh68z.streamlit.app/
+
 # Drug Effectiveness Predictor
 
 This project is a web application that predicts the effectiveness of a drug based on patient details and medication information. It uses a machine learning model trained on a dataset of drug reviews.
