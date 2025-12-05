@@ -1,0 +1,65 @@
+/* General App Background */
+.stApp {
+    background-color: #f0f2f6;
+}
+
+/* Header Styling */
+h1 {
+    color: #2c3e50;
+    font-family: 'Helvetica', sans-serif;
+    font-weight: 700;
+}
+
+/* Subheaders */
+h3 {
+    color: #34495e;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 10px;
+}
+
+/* Form Styling */
+[data-testid="stForm"] {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+/* Submit Button */
+.stButton button {
+    background-color: #3498db;
+    color: white;
+    font-weight: bold;
+    border-radius: 8px;
+    width: 100%;
+    border: none;
+    transition: all 0.3s;
+}
+
+.stButton button:hover {
+    background-color: #2980b9;
+    box-shadow: 0 4px 12px rgba(52, 152, 219, 0.4);
+}
+
+/* Result Cards */
+.result-card {
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.high-score {
+    background: linear-gradient(135deg, #2ecc71, #27ae60);
+}
+
+.med-score {
+    background: linear-gradient(135deg, #f1c40f, #f39c12);
+}
+
+.low-score {
+    background: linear-gradient(135deg, #e74c3c, #c0392b);
+}
