@@ -30,10 +30,6 @@ MANIFEST
 # IPython Notebook
 .ipynb_checkpoints
 
-# moving the models and datasets to gitignore
-*.pkl
-*.csv
-
 # Environments
 .env
 .project
